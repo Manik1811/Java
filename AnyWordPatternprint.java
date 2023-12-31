@@ -883,10 +883,7 @@ public static void main(String[] args)
 
         char[] str = ch.toCharArray();
         printPattern(str);
-	/* ch = '*';
-	char[] str = "RADHA KRISHNA".toCharArray();
-	printPattern(str);
- */
+	
 }
 }
 
