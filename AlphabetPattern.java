@@ -680,7 +680,7 @@ static void printPattern(char character)
 // Driver Code 
 public static void main(String[] args) 
 { 
-	char c;   
+	char ch;   
       
         int n;  
           
@@ -689,9 +689,9 @@ public static void main(String[] args)
           
         System.out.println("*****Welcome to the Print Alphabet Program*****");  
         System.out.println("Enter character from A-Z to print:");  
-        c = sc.next().charAt(0);  
+        ch = sc.next().charAt(0);  
       
-	printPattern(c);; 
+	printPattern(ch);; 
 } 
 } 
 
