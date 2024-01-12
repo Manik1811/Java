@@ -1,5 +1,5 @@
 import java.util.*;
-public class Test{
+public class Spiral{
 public static void  spiralMatrix(int matrix[][]){
 int sr=0,sC=0,eR=matrix.length-1,eC=matrix[0].length-1;
 while(sr<=eR  &&  sC<=eC){
